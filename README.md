@@ -29,10 +29,10 @@ JavaScript, frameworks, CSS Grid, Flexbox, animations, transitions, backend code
 
 ## Student details
 Edit the student details in this README before submission:
-- Name: [Enter your name]
-- Roll Number: [Enter your roll number]
-- Branch: [Enter your branch]
-- Section: [Enter your section]
+- Name: P.VIJAY BHASKAR
+- Roll Number: 26001334
+- Branch: CSM
+- Section: 7
 
 ## How to view
 Open each case study's index.html file in a web browser. These are static front-end demonstrations; forms and contact links are illustrative and do not connect to a backend.
